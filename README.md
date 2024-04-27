@@ -25,7 +25,7 @@ I was given a database with 9 tables with information ranging from product lines
 
 Solution:
 The South warehouse is at 75% capacity and it stores 2/3 of the least productive item lines by revenue and orders (Ships and Trains). Mint Classic should close the South warehouse and move the stored items to either the North (72% capacity) or West (50% capacity). 
-Trains have the least orders quarter over quarter and bring in the least revenue $188,532. They are also the least stock count. If Mint were to drop a product line, Trains should be it. 
+Trains have the least orders quarter over quarter and bring in the least revenue $188,532. They are also the least stock count. If Mint were to drop a product line, Trains should be it. Classic cars were the best selling product line with over $3.8 million in sales and led is sales quarter over quarter. 
 
 
 
